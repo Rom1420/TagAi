@@ -1,0 +1,14 @@
+# Fichiers et dossiers générés par Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Dossiers et fichiers générés par Unreal Engine
+Binaries/
+Intermediate/
+Saved/
+*.log
+*.tmp
+*.cache
