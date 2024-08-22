@@ -12,3 +12,16 @@ Saved/
 *.log
 *.tmp
 *.cache
+
+# Exclure les fichiers de build
+Build/
+
+# Fichiers temporaires ou générés
+*.tmp
+*.bak
+*.swp
+*.swo
+*.old
+
+# Dossiers spécifiques à l'éditeur Unreal Engine
+DerivedDataCache/
